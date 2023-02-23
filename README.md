@@ -7,3 +7,6 @@ The Jupyter Notebook was used to analyse the results of PL cell migration tracki
 
 The notebook can analyse tracking results obtained using the "Manual tracking" plugin (Fabrice Cordelières, Institut Curie, Orsay (France)) in Fiji/ImageJ (version 1.52). 
 
+
+
+Copyright (c) 2022, Münster Imaging Network
